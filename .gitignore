@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# CppMessenger - dirs
+CMakeFiles/
+
+# CppMessenger - files
+CppMessenger
+CMakeCache.txt
+cmake_install.cmake
+Makefile
