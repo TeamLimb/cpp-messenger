@@ -7,4 +7,4 @@ set (source_dir "./src/")
 
 file (GLOB source_files "${source_dir}/*.cpp")
 
-add_executable (CppMessenger ${source_files})
+add_executable (CppMessenger ${source_files} ${source_files2})
